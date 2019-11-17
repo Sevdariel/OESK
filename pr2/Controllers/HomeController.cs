@@ -15,7 +15,6 @@ namespace pr2.Controllers
         public IActionResult Index()
         {
             var text = Extension.GetDataURL("wwwroot/images/185B.png");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -25,7 +24,6 @@ namespace pr2.Controllers
         public IActionResult Site1kB()
         {
             var text = Extension.GetDataURL("wwwroot/images/1kB.png");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -35,7 +33,6 @@ namespace pr2.Controllers
         public IActionResult Site10kB()
         {
             var text = Extension.GetDataURL("wwwroot/images/10kB.jpg");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -45,7 +42,6 @@ namespace pr2.Controllers
         public IActionResult Site100kB()
         {
             var text = Extension.GetDataURL("wwwroot/images/100kB.jpg");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -55,7 +51,6 @@ namespace pr2.Controllers
         public IActionResult Site1MB()
         {
             var text = Extension.GetDataURL("wwwroot/images/1MB.jpg");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -65,7 +60,6 @@ namespace pr2.Controllers
         public IActionResult Site10MB()
         {
             var text = Extension.GetDataURL("wwwroot/images/10MB.jpg");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
@@ -76,7 +70,6 @@ namespace pr2.Controllers
         public IActionResult Site100MB()
         {
             var text = Extension.GetDataURL("wwwroot/images/100MB.jpg");
-            Console.WriteLine(text);
             ViewBag.ImageData = text;
 
             return View();
