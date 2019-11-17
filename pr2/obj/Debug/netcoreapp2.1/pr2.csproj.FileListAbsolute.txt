@@ -31,3 +31,42 @@ C:\Users\student.LAB-GE-1\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.dll
 C:\Users\student.LAB-GE-1\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.pdb
 C:\Users\student.LAB-GE-1\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.csproj.CopyComplete
 C:\Users\student.LAB-GE-1\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Get158BImage.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.deps.json
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.runtimeconfig.json
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.runtimeconfig.dev.json
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.dll
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.pdb
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.Views.dll
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\bin\Debug\netcoreapp2.1\pr2.Views.pdb
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.csprojAssemblyReference.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.csproj.CoreCompileInputs.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.RazorAssemblyInfo.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.RazorAssemblyInfo.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.AssemblyInfoInputs.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.AssemblyInfo.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.TagHelpers.input.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.TagHelpers.output.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.RazorCoreGenerate.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Get158BImage.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.RazorTargetAssemblyInfo.cache
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.RazorTargetAssemblyInfo.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.Views.pdb
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.dll
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.pdb
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\pr2.csproj.CopyComplete
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site10kB.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site1kB.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site100kB.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site100MB.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site10MB.g.cshtml.cs
+D:\Polibuda\Magisterka\Semestr II\OESK\pr2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Site1MB.g.cshtml.cs
